@@ -25,8 +25,8 @@ Before you begin, ensure you have met the following requirements:
   - Python 3.x installed on your machine.
   - Jupyter Notebook or JupyterLab installed.
   - API keys for:
-    -OpenWeatherMap API
-    -Geoapify API
+    - OpenWeatherMap API
+    - Geoapify API
 
 ## Installation
 1. Clone the Repository:
